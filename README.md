@@ -4,7 +4,8 @@ SnoutScout is a desktop application built with Python and Tkinter that allows us
 
  Swipe through pets, filter by type and distance, save your favorites, and easily view them on Petfinder.
 
-![Screenshot](screenshot.png)  <!-- optional if you have an image -->
+![alt text](https://i.postimg.cc/jSKfqdjY/petfinder.png "SnoutScout UI")
+
 
 ---
 
